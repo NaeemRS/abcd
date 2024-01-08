@@ -15,17 +15,16 @@ const Faqs = ({ data, icon1, icon2 }) => {
             {data?.map((item) => (
                 <div key={item.key} className={`mb-2 h-auto rounded ${activeKey === item.key ? '' : ''} `}>
                     <button
-                        className={`flex items-center justify-between p-3 w-full btnfaqs focus:outline-none ${activeKey === item.key ? 'redClr' : 'text-black'} `}
+                        className={`flex items-center p-3 w-full btnfaqs focus:outline-none ${activeKey === item.key ? 'redClr' : 'text-black'} `}
                         onClick={() => handleAccordionClick(item.key)}
                     >
-                        <span className="flex gap-2 items-center">
-                            <Icon
-                                icon={activeKey === item.key ? icon1 : icon2}
-                                className={activeKey === item.key ? 'redClr' : 'text-black'}
-                                width={33}
-                                height={33}
-                            />
-                            {item.title}
+
+                        <Icon
+                            icon={activeKey === item.key ? icon1 : icon2}
+                            className={activeKey === item.key ? 'redClr md:text-2xl text-lg' : 'text-black !md:text-2xl !text-lg'}
+
+                        />
+                        <span className="ml-2 text-left"> {item.title}
                         </span>
 
                     </button>

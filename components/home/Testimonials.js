@@ -22,7 +22,7 @@ const testimon = [
 const Testimonials = () => {
   return (
     <div className="py-12 bg-white">
-      <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6">
+      <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 ">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">
           Testimonials
         </h2>

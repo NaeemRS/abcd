@@ -57,7 +57,7 @@ export default function LatestGallery() {
   return (
     <>
     <section className="py-6 lg:py-20 md:py-10 ">
-      <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-62xl:px-20 lg:px-6">
+      <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 2xl:px-20 lg:px-6">
         <div className="grid grid-cols-1 gap-8 bg-white lg:grid-cols-3 sm:grid-cols-2">
           {cards.map((cards, key) => {
             return (

@@ -4,7 +4,7 @@ import { Icon } from '@iconify/react';
 export default function WellCome() {
     return (
         <>
-            <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6 text-center py-8">
+            <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8">
                 <div className="mb-8">
                     <h3 className="text-lg font-bold redClr mb-2">
                         {wellcome.heading1}
@@ -40,7 +40,7 @@ export default function WellCome() {
                 </div>
             </div>
             <section className="bg-green py-10">
-                <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6">
+                <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 ">
                     <div className="grid gap-5 2xl:gap-10 sm:grid-cols-2 grid-cols-1 md:grid-cols-3">
                         {headerData.map((step, key) => (
                             <div className='flex flex-col gap-5 lg:gap-6' key={key}>
@@ -58,13 +58,13 @@ export default function WellCome() {
                     </div>
                 </div>
             </section>
-            <section className="py-10">
-                <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6 py-8">
-                    <div className="w-full flex gap-7">
-                        <div className="w-2/5">
+            <section className="lg:py-10 md:py-5 py-3">
+                <div className="max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
+                    <div className="w-full flex gap-7 flex-wrap-reverse">
+                        <div className="md:w-2/5 w-full">
                             <img src={GetOurSober1.bannerImag1} alt="images" className='' />
                         </div>
-                        <div className="w-3/5">
+                        <div className="md:w-3/5 w-full">
                             <h3 className="text-base font-bold redClr mb-3">
                                 {GetOurSober1.lable}
                             </h3>
@@ -84,11 +84,11 @@ export default function WellCome() {
                     </div>
                 </div>
             </section>
-            <section className="py-10">
-                <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6 py-8">
-                    <div className="w-full flex gap-7">
+            <section className="lg:py-10 md:py-5 py-3">
+                <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
+                    <div className="w-full flex gap-7 flex-wrap">
 
-                        <div className="w-3/5">
+                        <div className="w-full md:w-3/5">
                             <h3 className="text-base font-bold redClr mb-3">
                                 {GetOurSober2.lable}
                             </h3>
@@ -105,8 +105,8 @@ export default function WellCome() {
                                 {GetOurSober2.paragrph2}
                             </p>
                         </div>
-                        <div className="w-2/5">
-                            <img src={GetOurSober2.bannerImag2} alt="images" className='h-[350px]' />
+                        <div className="md:w-2/5 mx-auto w-full">
+                            <img src={GetOurSober2.bannerImag2} alt="images" className='h-[350px]  mx-auto' />
                         </div>
                     </div>
                 </div>

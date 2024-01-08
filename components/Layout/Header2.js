@@ -30,7 +30,7 @@ export default function Header2() {
           className={`text-lg fixed w-full z-10 lg:py-3 py-2 ${scroll ? "bg-green shadow-lg" : " bg-green  "
             } `}
         >
-          <div className="container w-full px-4 mx-auto 2xl:px-20 lg:px-6">
+          <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 ">
             <div className="flex flex-wrap items-center justify-between w-full md:py-0">
               <div>
                 <Link
