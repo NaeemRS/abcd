@@ -19,5 +19,4 @@ const BannerSection = ({ lable, title, text, imageUrl, reverse }) => {
         </section>
     );
 };
-
 export default BannerSection;
