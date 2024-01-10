@@ -15,7 +15,7 @@ export default function index() {
   Link2={conatctUsBanner.Link2} 
 />
       <section className="relative">
-        <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6  text-center py-8 pb-0">
+        <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8 pb-0">
           <div className="mb-8 lg:max-w-4xl mx-auto">
           <h2 className="md:text-3xl lg:text-4xl mb-3 mx-auto text-center text-2xl text-gray-700">
               {conatctUs.title}

@@ -16,8 +16,8 @@ export default function index() {
         Link2={aboutUsBanner.Link2}
       />
       <section className="py-10">
-        <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
-          <div className="w-full flex gap-7 flex-wrap">
+        <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
+          <div className="w-full flex gap-7 flex-wrap lg:flex-nowrap">
             <div className="md:w-3/5 w-full">
               <h3 className="text-base font-bold redClr mb-3">
                 {GetOurSober1.lable}

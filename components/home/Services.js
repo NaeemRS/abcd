@@ -4,7 +4,7 @@ import { servicesCardData } from '@/helper/home';
 const Services = () => {
   return (
     <section className="text-white bg-green">
-      <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-20 py-10 lg:px-6">
+      <div className=" max-w-[85rem] mx-auto px-4 2xl:px-20 py-10 lg:px-6">
         <h2 className="md:text-3xl font-bold redClr mb-8 text-xl">
           HIRE A DRIVER IN DUBAI, CHAUFFEUR SERVICE
           <div className='w-24 bg-btn h-1 rounded-0 mt-2'></div>

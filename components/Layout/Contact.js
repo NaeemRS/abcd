@@ -7,7 +7,7 @@ const Contact = () => {
       <section className='relative bg-btn overflow-hidden !rounded-0'>
         <div class=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 relative py-10">
           <div className='flex items-center'>
-            <div class="w-2/3 text-center mx-auto">
+            <div class="sm:w-2/3 w-[92%] text-center mx-auto">
               <h1 class="md:text-3xl text-xl font-bold text-center text-gray-50 mb-3">                    
                   We are Ready to Take Your Call 24 Hours, 7 Days!
               </h1>

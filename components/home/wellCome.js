@@ -40,7 +40,7 @@ export default function WellCome() {
                 </div>
             </div>
             <section className="bg-green py-10">
-                <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 ">
+                <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6">
                     <div className="grid gap-5 2xl:gap-10 sm:grid-cols-2 grid-cols-1 md:grid-cols-3">
                         {headerData.map((step, key) => (
                             <div className='flex flex-col gap-5 lg:gap-6' key={key}>
@@ -60,7 +60,7 @@ export default function WellCome() {
             </section>
             <section className="lg:py-10 md:py-5 py-3">
                 <div className="max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
-                    <div className="w-full flex gap-7 flex-wrap-reverse">
+                    <div className="w-full flex gap-7 lg:flex-nowrap flex-wrap-reverse">
                         <div className="md:w-2/5 w-full">
                             <img src={GetOurSober1.bannerImag1} alt="images" className='' />
                         </div>
@@ -86,7 +86,7 @@ export default function WellCome() {
             </section>
             <section className="lg:py-10 md:py-5 py-3">
                 <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
-                    <div className="w-full flex gap-7 flex-wrap">
+                    <div className="w-full flex gap-7 flex-wrap lg:flex-nowrap">
 
                         <div className="w-full md:w-3/5">
                             <h3 className="text-base font-bold redClr mb-3">

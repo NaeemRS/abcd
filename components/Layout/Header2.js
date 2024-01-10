@@ -30,7 +30,7 @@ export default function Header2() {
           className={`text-lg fixed w-full z-10 lg:py-3 py-2 ${scroll ? "bg-green shadow-lg" : " bg-green  "
             } `}
         >
-          <div className=" max-w-[85rem] mx-auto px-4 mx-auto 2xl:px-10 xl:px-6 ">
+          <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 ">
             <div className="flex flex-wrap items-center justify-between w-full md:py-0">
               <div>
                 <Link
@@ -84,9 +84,9 @@ export default function Header2() {
                     </Link>
                   </li>
                   <li>
-                    <Link className="block py-2 md:p-4 " href="/About">
+                    <Link className="block py-2 md:p-4 " href="/about">
                       <div
-                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/About" && "redClr "
+                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/about" && "redClr "
                           } `}
                         onClick={toggleMenu}
                       >
@@ -105,22 +105,11 @@ export default function Header2() {
                       </div>
                     </Link>
                   </li>
+                  
                   <li>
-                    <Link className="block py-2 md:p-4 " href="/Gallery">
+                    <Link className="block py-2 md:p-4 " href="/contact">
                       <div
-                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/Gallery" && "redClr "
-                          } `}
-                        onClick={toggleMenu}
-                      >
-                        OUR SERVICES
-
-                      </div>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="block py-2 md:p-4 " href="/Contact">
-                      <div
-                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/Contact" && "redClr "
+                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/contact" && "redClr "
                           } `}
                         onClick={toggleMenu}
                       >
