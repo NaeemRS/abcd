@@ -2,8 +2,6 @@ import AboutBanner from '@/components/common/AboutBanner'
 import BookingForm from '@/components/common/BookingForm'
 import { conatctUs, conatctUsBanner } from '@/helper/contact'
 import { constant } from '@/helper/home'
-import Link from 'next/link'
-import React from 'react'
 
 export default function index() {
   return (
