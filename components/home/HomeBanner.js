@@ -31,7 +31,7 @@ const HomeBanner = () => {
         <section className='relative'>
             <img src='/images/safe-driver-dubai.jpg' className='w-full h-full absolute left-0 right-0' />
             <div className='bg-[#0000006e] w-full h-full absolute left-0 right-0'></div>
-            <div class=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  relative py-10">
+            <div class="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  relative py-10">
                 <div className='flex items-center flex-wrap'>
                     <div class="lg:w-1/2 w-full text-center lg:mb-0 mb-4 lg:text-left md:pr-10">
                         <h1 class="text-2xl 2xl:text-6xl lg:text-5xl md:text-3xl font-bold text-white lg:mb-5 md:mb-3 mb-2">{constant.heading}</h1>

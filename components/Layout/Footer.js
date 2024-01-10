@@ -5,7 +5,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="bg-green text-white p-6">
-      <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 text-center py-8 pb-0">
+      <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6 text-center py-8 pb-0">
         <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-3">
           <div className="mb-6 md:border-r pr-4">
             <h5 className="uppercase text-2xl !font-bold mb-2.5">Address</h5>

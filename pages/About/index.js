@@ -16,10 +16,10 @@ export default function index() {
         Link2={aboutUsBanner.Link2}
       />
       <section className="py-10">
-        <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
+        <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
           <div className="w-full flex gap-7 flex-wrap lg:flex-nowrap">
             <div className="md:w-3/5 w-full">
-              <h3 className="text-base font-bold redClr mb-3">
+              <h3 className="uppercase text-lg font-bold redClr mb-2">
                 {GetOurSober1.lable}
               </h3>
               <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">
@@ -58,7 +58,7 @@ export default function index() {
         text={sections3.description}
         lable={sections3.title} />
 
-      <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
+      <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
         <h1 className="text-2xl lg:text-4xl md:text-3xl font-bold text-black lg:mb-5 md:mb-3 mb-2">
           {faqsAboutHeading.heading}
         </h1>

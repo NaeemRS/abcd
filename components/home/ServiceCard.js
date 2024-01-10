@@ -5,7 +5,7 @@ import Faqs from '../common/Faqs';
 const ServiceCard = () => {
     return (
         <section className="text-gray-600 body-font bg-repeat bg-[url('/images/pattern.webp')]">
-            <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  md:py-10  py-5">
+            <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  md:py-10  py-5">
                 <div className="grid hidden grid-cols-4 gap-4">
                     {servicesData.map((service, index) => (
                         <div key={index} className='bg-btn p-[1px] rounded-lg pb-2'>
@@ -41,7 +41,7 @@ const ServiceCard = () => {
                     ))}
                 </div>
             </div>
-            <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  md:py-10  py-5">
+            <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  md:py-10  py-5">
                 <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">{chauffeurServices.heading1}</h2>
                 <p className="leading-relaxed mb-2 text-base">{chauffeurServices.paragrph1}</p>
                 <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">
@@ -51,7 +51,7 @@ const ServiceCard = () => {
                     {chauffeurServices.paragrph2}
                 </p>
             </div>
-            <div className="max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
+            <div className="  2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6 py-8">
                 <div className="flex flex-wrap gap-3 w-full">
                     <div className='md:w-1/2 w-full'>
                          <Faqs icon1="subway:massage" icon2="subway:massage"  data={faqsData1} />

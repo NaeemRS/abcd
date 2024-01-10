@@ -15,7 +15,7 @@ export default function index() {
   Link2={conatctUsBanner.Link2} 
 />
       <section className="relative">
-        <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8 pb-0">
+        <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8 pb-0">
           <div className="mb-8 lg:max-w-4xl mx-auto">
           <h2 className="md:text-3xl lg:text-4xl mb-3 mx-auto text-center text-2xl text-gray-700">
               {conatctUs.title}
@@ -27,13 +27,10 @@ export default function index() {
               {conatctUs.description}
             </p>
           </div>
-
-
-
         </div>
-        <div className="container w-full  px-4 mx-auto 2xl:px-20 lg:px-6 relative pt-5 py-10">
-          <div className="w-3/5 mx-auto">
-            <div className=" p-6 bg-green shadow-md">
+        <div className="md:container w-full px-4 mx-auto 2xl:px-20 lg:px-6 relative pt-5 py-10">
+          <div className="lg:w-3/5 w-full mx-auto">
+            <div className=" md:p-6 p-4 bg-green shadow-md">
               <h2 className="text-2xl font-semibold redClr mb-3">{constant.booking}</h2>
               <BookingForm />
             </div>

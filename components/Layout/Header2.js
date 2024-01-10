@@ -30,7 +30,7 @@ export default function Header2() {
           className={`text-lg fixed w-full z-10 lg:py-3 py-2 ${scroll ? "bg-green shadow-lg" : " bg-green  "
             } `}
         >
-          <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6 ">
+          <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6 ">
             <div className="flex flex-wrap items-center justify-between w-full md:py-0">
               <div>
                 <Link
@@ -55,7 +55,7 @@ export default function Header2() {
                <Icon icon="mingcute:menu-fill" color="#01d9b8" width="25" height="25" />
               </button>
               <div
-                className={` flex lg:items-center lg:w-auto uppercase md:bg-nav lg:bg-transparent fixed top-0 right-0 bottom-0 lg:relative xl:w-auto z-50  ${isMenuOpen
+                className={`flex lg:items-center lg:w-auto uppercase md:bg-nav lg:bg-transparent fixed top-0 right-0 bottom-0 lg:relative xl:w-auto z-50  ${isMenuOpen
                   ? "md:w-[50%] w-[70%]"
                   : " lg:inline-block md:hidden hidden"
                   }`}
@@ -79,7 +79,6 @@ export default function Header2() {
                         onClick={toggleMenu}
                       >
                         HOME
-
                       </div>
                     </Link>
                   </li>
@@ -113,8 +112,7 @@ export default function Header2() {
                           } `}
                         onClick={toggleMenu}
                       >
-                        BOOK
-                        NOW
+                        BOOK NOW
                       </div>
                     </Link>
                   </li>

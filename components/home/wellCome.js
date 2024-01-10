@@ -4,9 +4,9 @@ import { Icon } from '@iconify/react';
 export default function WellCome() {
     return (
         <>
-            <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8">
+            <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  text-center py-8">
                 <div className="mb-8">
-                    <h3 className="text-lg font-bold redClr mb-2">
+                    <h3 className="uppercase text-lg font-bold redClr mb-2">
                         {wellcome.heading1}
                     </h3>
                     <h2 className="md:text-3xl lg:text-4xl md:w-1/2 mx-auto text-center text-2xl text-gray-700">
@@ -59,13 +59,13 @@ export default function WellCome() {
                 </div>
             </section>
             <section className="lg:py-10 md:py-5 py-3">
-                <div className="max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
+                <div className="  2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
                     <div className="w-full flex gap-7 lg:flex-nowrap flex-wrap-reverse">
                         <div className="md:w-2/5 w-full">
                             <img src={GetOurSober1.bannerImag1} alt="images" className='' />
                         </div>
                         <div className="md:w-3/5 w-full">
-                            <h3 className="text-base font-bold redClr mb-3">
+                            <h3 className="uppercase text-lg font-bold redClr mb-2">
                                 {GetOurSober1.lable}
                             </h3>
                             <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">
@@ -85,11 +85,11 @@ export default function WellCome() {
                 </div>
             </section>
             <section className="lg:py-10 md:py-5 py-3">
-                <div className=" max-w-[85rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
+                <div className="   2xl:max-w-[90rem] mx-auto px-4 2xl:px-10 xl:px-6  py-8">
                     <div className="w-full flex gap-7 flex-wrap lg:flex-nowrap">
 
                         <div className="w-full md:w-3/5">
-                            <h3 className="text-base font-bold redClr mb-3">
+                            <h3 className="uppercase text-lg font-bold redClr mb-2">
                                 {GetOurSober2.lable}
                             </h3>
                             <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">

@@ -74,6 +74,7 @@ export const sections3 = ({
         Link1: 'Home',
         Link2: "TERMS AND CONDITIONS",
     })
+    
     export const termsContent= ({
         heading:'Why Should You Hire a Personal Driver in Dubai?',
         paragrph:'Why Should You Hire a Personal Driver in Dubai?',

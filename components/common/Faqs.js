@@ -21,7 +21,7 @@ const Faqs = ({ data, icon1, icon2 }) => {
 
                         <Icon
                             icon={activeKey === item.key ? icon1 : icon2}
-                            className={activeKey === item.key ? 'redClr md:text-2xl text-lg' : 'text-black !md:text-2xl !text-lg'}
+                            className={activeKey === item.key ? 'redClr md:text-2xl text-lg' : 'text-black md:text-2xl text-lg'}
 
                         />
                         <span className="ml-2 text-left"> {item.title}
