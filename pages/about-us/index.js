@@ -3,8 +3,6 @@ import AboutBanner from '@/components/common/AboutBanner'
 import Faqs from '@/components/common/Faqs'
 import { aboutUsBanner, faqsAbout, faqsAboutHeading, sections1, sections2, sections3 } from '@/helper/about'
 import { GetOurSober1 } from '@/helper/home'
-import Link from 'next/link'
-import React from 'react'
 
 export default function index() {
   return (

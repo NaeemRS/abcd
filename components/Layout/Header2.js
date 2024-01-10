@@ -83,9 +83,9 @@ export default function Header2() {
                     </Link>
                   </li>
                   <li>
-                    <Link className="block py-2 md:p-4 " href="/about">
+                    <Link className="block py-2 md:p-4 " href="/about-us">
                       <div
-                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/about" && "redClr "
+                        className={`w-full text-center whitespace-nowrap cursor-pointer text-sm hover:yellow  ${router.asPath === "/about-us" && "redClr "
                           } `}
                         onClick={toggleMenu}
                       >
