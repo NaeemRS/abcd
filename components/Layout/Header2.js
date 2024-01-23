@@ -37,7 +37,7 @@ export default function Header2() {
                   className="lg:h-[60px] md:h-14 flex items-center h-12"
                   href="/"
                 >
-                  <div className="flex items-center">
+                  <div className="flex items-center text-white">
                     {/* <img
                       src="/images/logo-top.png"
                       alt="logo"
