@@ -38,11 +38,12 @@ export default function Header2() {
                   href="/"
                 >
                   <div className="flex items-center">
-                    <img
+                    {/* <img
                       src="/images/logo-top.png"
                       alt="logo"
                       className="lg:h-[60px] md:h-14 flex items-center h-12"
-                    />
+                    /> */}
+                    ABCD
                   </div>
                 </Link>
               </div>

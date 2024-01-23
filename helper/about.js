@@ -63,13 +63,13 @@ export const sections3 = ({
         }
     ];
     export const aboutUsBanner = ({
-        banner: '/images/about-banner.webp',
+        banner: '/images/about-banner.jpg',
         title: "ABOUT US",
         Link1: 'Home',
         Link2: 'ABOUT US',
     })
     export const termsBanner = ({
-        banner: '/images/about-banner.webp',
+        banner: '/images/about-banner.jpg',
         title: "TERMS AND CONDITIONS",
         Link1: 'Home',
         Link2: "TERMS AND CONDITIONS",

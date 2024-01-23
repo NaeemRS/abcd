@@ -38,7 +38,7 @@ export const wellcome = ({
 export const GetOurSober1 = ({
     /**  Messages */
     lable: 'HIRE A DRIVER IN DUBAI',
-    bannerImag1: '/images/bannerImage1.jpg',
+    bannerImag1: '/images/services-banner1.jpg',
     heading1: "Get Our Sober Driver Service When Your Are In No Condition to Drive",
     heading2: `Recent Posts`,
     paragrph1: `Dubai is absolutely intolerantly to drink and drive. Our drivers are 
@@ -84,22 +84,22 @@ Next time you party the thing that should be on your check list are your outfit,
 
 export const servicesData = [
     {
-        servesImage: "/images/servesImage1.webp",
+        servesImage: "/images/servesImage1.jpg",
         title: "Chauffeur Service",
         description: "We provide Chauffeur service with our professional designated driver’s to drives customers safely to their destinations in the convenience and safety of their own car when they are not in a position to drive due to influence of alcohol."
     },
     {
-        servesImage: "/images/servesImage2.webp",
+        servesImage: "/images/servesImage2.jpg",
         title: "Outsourced/Corporate Drivers",
         description: "Awesome Drive provides professional chauffeurs to meet all your requirements. If you require a driver for a day, week or monthly Awesome Drive can provide you with professional and experienced chauffeurs."
     },
     {
-        servesImage: "/images/servesImage3.webp",
+        servesImage: "/images/servesImage3.jpg",
         title: "RTA Registration Service",
         description: "We will Pick your vehicle from your office or home, and get the mandatory inspection done, once passing is done Successfully we will then get the vehicle registration renewed & drop off the vehicle to your designated location."
     },
     {
-        servesImage: "/images/servesImage4.webp",
+        servesImage: "/images/servesImage4.jpg",
         title: "Packers and Movers in Dubai",
         description: "Choosing the right packers and movers is beneficial as it helps in easy relocation. It is inexpensive and everything is included in a single package. The best part of professional movers is their efficiency and integrity."
     }

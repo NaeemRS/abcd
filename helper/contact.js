@@ -5,7 +5,7 @@ export const conatctUs = ({
     description: "Please Fill the Form Below to Book Your Safe Driver. One of Our Team Members Will Contact You Soon. Thank You!"
 })
 export const conatctUsBanner = ({
-    banner: '/images/about-banner.webp',
+    banner: '/images/about-banner.jpg',
     title: "Book Now for Sober Driver Dubai",
     Link1: 'Home',
     Link2: 'Book Now for Sober Driver Dubai',

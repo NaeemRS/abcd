@@ -33,13 +33,13 @@ We provide all of our drivers with transportation to your location ensuring you 
     `})
     
     export const sections5 = ({
-    banner: '/images/services-banner5.webp',
+    banner: '/images/services-banner5.jpg',
     subtitle: "Packers and Movers in Dubai",
     description:`Shifting from one place to another is not an easy task, also if you are not taking professional help then it definitely drains a lot of your energy. Relocation is a step by step process in which the packers and movers are experts in the area. There are several services that the moving companies include and it starts from packing, loading, transportation, unloading, unpacking etc. All of the services should be at an affordable price and in a single package.
     `})
 
     export const ourServices = ({
-        banner: '/images/about-banner.webp',
+        banner: '/images/about-banner.jpg',
         title: "Our Services",
         Link1: 'Home',
         Link2: "Our Services",

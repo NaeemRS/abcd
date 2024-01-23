@@ -48,7 +48,7 @@ By continuing to navigate our website without changing your cookie settings, you
     }
 ]
 export const privacyBanner = ({
-    banner: '/images/about-banner.webp',
+    banner: '/images/about-banner.jpg',
     title: "privacy policy",
     Link1: 'Home',
     Link2: "privacy policy",
