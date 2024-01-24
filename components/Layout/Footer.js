@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-3">
           <div className="mb-6 md:border-r pr-4">
             <h5 className="uppercase text-2xl !font-bold mb-2.5">Address</h5>
-            <p>Awesome Drive Fleet Vehicles Management LLC,</p>
+            <p>abcd Drive Fleet Vehicles Management LLC,</p>
             <p>1601 Latifa Tower, Sheikh Zayed Road, Dubai, UAE</p>
           </div>
           <div className="mb-6">
@@ -26,7 +26,7 @@ const Footer = () => {
           <div className="mb-6 md:border-l pl-4">
             <h5 className="uppercase text-2xl !font-bold mb-2.5">Contacts</h5>
             <p>+971 52 894 8931</p>
-            <p>info@awesomedrive.ae</p>
+            <p>info@abcd.ae</p>
           </div>
           
         </div>

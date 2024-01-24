@@ -14,7 +14,7 @@ export const sections3 = ({
         banner: '/images/about-banner4.jpg',
         title: "Our Skills",
         subtitle: "Driven to Serve",
-        description: "Our selection process looks at the drivers attitude and commitment to service, as much as their driving and topographical skills. Nothing is too much trouble for an Awesome Drive chauffeur, they take pride in their work with an aim to provide the highest level of service. Our client testimonials echo our belief in this service. All our chauffeurs understand and sign our confidentiality agreement; discretion is always a priority."
+        description: "Our selection process looks at the drivers attitude and commitment to service, as much as their driving and topographical skills. Nothing is too much trouble for an abcd Drive chauffeur, they take pride in their work with an aim to provide the highest level of service. Our client testimonials echo our belief in this service. All our chauffeurs understand and sign our confidentiality agreement; discretion is always a priority."
     
     })
     export const faqsAboutHeading = ({
@@ -78,12 +78,12 @@ export const sections3 = ({
     export const termsContent= ({
         heading:'Why Should You Hire a Personal Driver in Dubai?',
         paragrph:'Why Should You Hire a Personal Driver in Dubai?',
-        paragrph2:`Give yourself a fantastic safe driver service experience with the professional chauffeur services of Awesome Drive, in Dubai. Here you will find highly experienced safe drivers waiting for you to ride and explore the United Arab Emirates with your family, business meeting or friends in the comfort of your own car. Awesome Drive is a Dubai based Safe Driver company that offers private drivers in Dubai to tourists and natives.
+        paragrph2:`Give yourself a fantastic safe driver service experience with the professional chauffeur services of abcd Drive, in Dubai. Here you will find highly experienced safe drivers waiting for you to ride and explore the United Arab Emirates with your family, business meeting or friends in the comfort of your own car. abcd Drive is a Dubai based Safe Driver company that offers private drivers in Dubai to tourists and natives.
     
         Whether you need a corporate car driver to receive your business clients from the airport or need chauffeur service at the price of a cab to meet friends, we have got you covered with our safe driver services.`,
         heading2: 'Terms And Conditions' ,
-        paragrph3:'“Awesomedrive.ae” Website Owned & Operated by AWESOME DRIVE FLEET VEHICLES MANAGEMENT LLC',
-        paragrph4:'“the company” shall mean AWESOME DRIVE FLEET VEHICLES MANAGEMENT LLC “vehicle” shall mean the vehicle of the customer.',
+        paragrph3:'“drive.ae” Website Owned & Operated by abcd DRIVE FLEET VEHICLES MANAGEMENT LLC',
+        paragrph4:'“the company” shall mean abcd DRIVE FLEET VEHICLES MANAGEMENT LLC “vehicle” shall mean the vehicle of the customer.',
         paragrph5:'“Safe Driver” is a member of the company’s staff employed for the purpose of driving the customer to their desired destination using their own vehicle.',
 
     })
@@ -128,6 +128,6 @@ export const sections3 = ({
             content: "The acceptance of the service constitute acknowledgement by Customer that they have read and agree to the foregoing contract."
         },
         {
-            content: "If Customer got any fine or accident at the time of our service, please report to us as soon as feasible, but at least within 7 days of dropping off the car. You can send email to “info@awesomedrive.ae“. If customer false to report with 7 days after the incident, we accept no responsibility for and shall not be liable in respect of any loss, damage, alterations, delays, including traffic violations."
+            content: "If Customer got any fine or accident at the time of our service, please report to us as soon as feasible, but at least within 7 days of dropping off the car. You can send email to “info@drive.ae“. If customer false to report with 7 days after the incident, we accept no responsibility for and shall not be liable in respect of any loss, damage, alterations, delays, including traffic violations."
         }
     ];

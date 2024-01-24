@@ -1,4 +1,4 @@
-import { chauffeurServices, faqsData1, faqsData2, awesomeDriveBenefits, awesomeDriveBenefitsP, servicesData } from '@/helper/home';
+import { chauffeurServices, faqsData1, faqsData2, driveBenefits, driveBenefitsP, servicesData } from '@/helper/home';
 import Link from 'next/link';
 import Faqs from '../common/Faqs';
 
@@ -62,13 +62,13 @@ const ServiceCard = () => {
                 </div>
             </div>
             <div className=" max-w-[85rem] px-4 mx-auto 2xl:px-10 xl:px-6  md:py-10  py-5">
-                <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">{awesomeDriveBenefitsP.heading}</h2>
+                <h2 className="md:text-3xl text-2xl text-gray-700 mb-3">{driveBenefitsP.heading}</h2>
                 <ul className='list-disc pl-5'>
-                    {awesomeDriveBenefits.map((list, key) =>
+                    {driveBenefits.map((list, key) =>
                         <li key={key} className="leading-relaxed mb-2 text-base">{list.description}</li>
                     )}
                 </ul>
-                <p className="leading-relaxed text-base">{awesomeDriveBenefitsP.paragrph2}</p>
+                <p className="leading-relaxed text-base">{driveBenefitsP.paragrph2}</p>
 
             </div>
         </section>

@@ -10,7 +10,7 @@ export const sections2 = ({
     banner: '/images/services-banner2.jpg',
     subtitle: "Outsourced/ Corporate Drivers",
     description:`If you are looking for a private chauffeur service then look no further than us.
-    Awesome Drive provides professional chauffeurs to meet all your requirements.If you require a driver for a day, week or monthly Awesome Drive can provide you with professional and experienced chauffeurs.
+    abcd Drive provides professional chauffeurs to meet all your requirements.If you require a driver for a day, week or monthly abcd Drive can provide you with professional and experienced chauffeurs.
     `
 })
 export const sections3 = ({
@@ -24,9 +24,9 @@ export const sections4 = ({
     banner: '/images/services-banner4.jpg',
     subtitle: "Special Occasions (Weddings, Engagements, Anniversaries, Birthdays)",
     description:`
-    With Dubai being a hot spot for some of the top events in the world, Awesome Drive is here to help making sure your event goes as planned. If you are an event company who require professional and experienced chauffeurs, then Awesome Drive can provide you drivers on demand anytime of the day.
+    With Dubai being a hot spot for some of the top events in the world, abcd Drive is here to help making sure your event goes as planned. If you are an event company who require professional and experienced chauffeurs, then abcd Drive can provide you drivers on demand anytime of the day.
 
-Similarly if you have a wedding event or a concert, Awesome Drive can provide you and your guests with private chauffeurs to make your event a worry free one.
+Similarly if you have a wedding event or a concert, abcd Drive can provide you and your guests with private chauffeurs to make your event a worry free one.
 
 We provide all of our drivers with transportation to your location ensuring you have a hassle free service. Our chauffeurs are safe drivers that abide strictly by the traffic laws in the UAE. They have experience in driving cars such as Rolls Royce’s, Bentley’s as well as Ferrari’s, ensuring your car is in safe hands with our Drivers.
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const testimon = [
   {
-    text: "They offer the best driver service in the town. Professional designated drivers and awesome customer service! I highly recommend their service. Thank you for keeping UAE roads safe.",
+    text: "They offer the best driver service in the town. Professional designated drivers and abcdcustomer service! I highly recommend their service. Thank you for keeping UAE roads safe.",
     author: "Taimoor Khurshid",
     location: "Dubai, UAE"
   },

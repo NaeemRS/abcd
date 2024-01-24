@@ -1,13 +1,13 @@
 export const privcyContent = [
     {
         heading: 'Website Visitors',
-        paragraph: `Like most website operators, Awesome Drive collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Awesome Drive’s purpose in collecting non-personally identifying information is to better understand how Awesome Drive’s visitors use its website. From time to time, Awesome Drive may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-Awesome Drive also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://awesomedrive.ae blog posts. Awesome Drive only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+        paragraph: `Like most website operators, abcd Drive collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. abcd Drive’s purpose in collecting non-personally identifying information is to better understand how abcd Drive’s visitors use its website. From time to time, abcd Drive may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+abcd Drive also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://drive.ae blog posts. abcd Drive only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 `,
     },
     {
         heading: 'Gathering of Personally-Identifying Information',
-        paragraph: `Certain visitors to Awesome Drive’s websites choose to interact with Awesome Drive in ways that require Awesome Drive to gather personally-identifying information. The amount and type of information that Awesome Drive gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://awesomedrive.ae to provide a username and email address.
+        paragraph: `Certain visitors to abcd Drive’s websites choose to interact with abcd Drive in ways that require abcd Drive to gather personally-identifying information. The amount and type of information that abcd Drive gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://drive.ae to provide a username and email address.
 `,
     },
     {
@@ -17,7 +17,7 @@ Awesome Drive also collects potentially personally-identifying information like 
     },
     {
         heading: 'Advertisements',
-        paragraph: `Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Awesome Drive and does not cover the use of cookies by any advertisers.
+        paragraph: `Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by abcd Drive and does not cover the use of cookies by any advertisers.
 `,
     },
     {
@@ -28,18 +28,18 @@ Awesome Drive also collects potentially personally-identifying information like 
     },
     {
         heading: 'Aggregated Statistics',
-        paragraph: `Awesome Drive may collect statistics about the behavior of visitors to its website. Awesome Drive may display this information publicly or provide it to others. However, Awesome Drive does not disclose your personally-identifying information.
+        paragraph: `abcd Drive may collect statistics about the behavior of visitors to its website. abcd Drive may display this information publicly or provide it to others. However, abcd Drive does not disclose your personally-identifying information.
 `,
     }
     , {
         heading: 'Cookies',
-        paragraph: `To enrich and perfect your online experience, Awesome Drive uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Awesome Drive uses cookies to help Awesome Drive identify and track visitors, their usage of https://awesomedrive.ae, and their website access preferences. Awesome Drive visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Awesome Drive’s websites, with the drawback that certain features of Awesome Drive’s websites may not function properly without the aid of cookies.
-By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Awesome Drive’s use of cookies.
+        paragraph: `To enrich and perfect your online experience, abcd Drive uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. abcd Drive uses cookies to help abcd Drive identify and track visitors, their usage of https://drive.ae, and their website access preferences. abcd Drive visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using abcd Drive’s websites, with the drawback that certain features of abcd Drive’s websites may not function properly without the aid of cookies.
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to abcd Drive’s use of cookies.
 `,},
     {
         heading: 'Privacy Policy Changes',
-        paragraph: `Although most changes are likely to be minor, Awesome Drive may change its Privacy Policy from time to time, and in Awesome Drive’s sole discretion. Awesome Drive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+        paragraph: `Although most changes are likely to be minor, abcd Drive may change its Privacy Policy from time to time, and in abcd Drive’s sole discretion. abcd Drive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 `,
     },
     {

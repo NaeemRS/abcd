@@ -11,7 +11,7 @@ export const headerData = [
     },
     {
         id: 'raphael:taxi',
-        title: "Safe Journey with Awesome Drive",
+        title: "Safe Journey with abcd Drive",
         description: "Have a safe journey to your destination in the comfort of your own car with our professional chauffeur."
     }
     // Add more steps if needed
@@ -20,20 +20,20 @@ export const headerData = [
 export const constant = ({
     /**  Messages */
     heading: "Hire a Safe driver Dubai @ AED 80",
-    paragrph: `We provides safe driving services at an affordable price. You can hire a safe driver Dubai for your trip from Awesome Drive Dubai to Abu Dhabi, Sharjah, and other Emirates.`,
+    paragrph: `We provides safe driving services at an affordable price. You can hire a safe driver Dubai for your trip from abcd Drive Dubai to Abu Dhabi, Sharjah, and other Emirates.`,
     contact: "Contact Us at",
     contactNumber: "+1234567890",
     booking: 'Book a Driver',
 });
 export const wellcome = ({
     /**  Messages */
-    heading1: "WELCOME TO AWESOME DRIVE",
+    heading1: "WELCOME TO abcd DRIVE",
     heading2: `Hire a Safe driver Dubai
     Most Trusted Private Driver Service in UAE`,
-    paragrph: "Required Safe driver Dubai? Call +971 52 894 8931 to hire a driver in Dubai. Are you not in a position to drive your car? Hiring a safe driver Dubai is the best thing to do if you are in Dubai and Awesome Drive is the best safe Driver Company. Awesome Drive welcomes you to a chauffeur-driven service. It is a driver company operating in Dubai.",
-    paragrph1: `When you are in search of hiring a  driver in Dubai then awesome drive is your one stop solution. We have a lot of experience that provides an innovative and unique chauffeur service to the people in the UAE public. When you are looking for a safe driver who is reliable and can take you to your loved ones and with comfort, we have the best private drivers you will find anywhere in Dubai. We are specialists when it comes to offering safe driver services. We will not let you down in your hunt for the best driver service in Dubai.`,
+    paragrph: "Required Safe driver Dubai? Call +971 52 894 8931 to hire a driver in Dubai. Are you not in a position to drive your car? Hiring a safe driver Dubai is the best thing to do if you are in Dubai and abcd Drive is the best safe Driver Company. abcd Drive welcomes you to a chauffeur-driven service. It is a driver company operating in Dubai.",
+    paragrph1: `When you are in search of hiring a  driver in Dubai then abcd drive is your one stop solution. We have a lot of experience that provides an innovative and unique chauffeur service to the people in the UAE public. When you are looking for a safe driver who is reliable and can take you to your loved ones and with comfort, we have the best private drivers you will find anywhere in Dubai. We are specialists when it comes to offering safe driver services. We will not let you down in your hunt for the best driver service in Dubai.`,
     paragrph2: `We understand the importance of providing people in Dubai with a safe transportation option to reach night life in Dubai, restaurants and parties. Customers can call, message us via WhatsApp or book a service via our website, and we will arrange for a driver to take them to their desired location in their own car. Our company is authorized by the RTA (Roads and Transport Authority) to supply Personal, Private and corporate drivers in Dubai. We are committed to helping everyone in Dubai get where they need to go in a timely and reliable manner for an affordable price – all while maintaining 24*7 availability.`,
-    paragrph3: `At Awesome Drive, we specialize in providing Corporate Drivers for business travel, Airport Transfers, and long or short-term hire. Our services encompass Business Trips, Conferences, and Business Leisure Trips as well as arrivals, departures, and hotel transfers. Plus, if you’re taking a break in Dubai, you can take advantage of our safe drivers for day trips, nights out, evenings out, and special events. You can make use of drivers for Long/Short period such as Daily, Weekly and Monthly  Driver.`
+    paragrph3: `At abcd Drive, we specialize in providing Corporate Drivers for business travel, Airport Transfers, and long or short-term hire. Our services encompass Business Trips, Conferences, and Business Leisure Trips as well as arrivals, departures, and hotel transfers. Plus, if you’re taking a break in Dubai, you can take advantage of our safe drivers for day trips, nights out, evenings out, and special events. You can make use of drivers for Long/Short period such as Daily, Weekly and Monthly  Driver.`
 });
 export const GetOurSober1 = ({
     /**  Messages */
@@ -50,25 +50,25 @@ export const GetOurSober1 = ({
      Our designated drivers will take you home safely in the comfort and privacy
       of your own vehicle. We are the Best Corporate Driver Company Dubai.`,
     paragrph2: `Why You Should Consider Hiring a Monthly Safe Driver in Dubai
-Discover the Ultimate Convenience with Awesome Drive: Dubai’s Premier Private Safe Driver Service in Dubai
+Discover the Ultimate Convenience with abcd Drive: Dubai’s Premier Private Safe Driver Service in Dubai
 Road Safety for New Expats in Dubai
-key:'1',y the Awesome Drive – Best Safe Driver Dubai
+key:'1',y the abcd Drive – Best Safe Driver Dubai
 What makes Monthly Driver Service in Dubai more suitable for personal use?`
 });
 export const GetOurSober2 = ({
     /**  Messages */
     lable: 'HIRE A DRIVER IN DUBAI',
     bannerImag2: '/images/bannerImage2.jpg',
-    heading1: "About Awesome Driver, Best Safe Driver Dubai",
+    heading1: "About abcd Driver, Best Safe Driver Dubai",
     // heading2: `Recent Posts`,
-    paragrph1: `We are Awesome Drive, the most trusted private driver service in the UAE. We specialize in safe driver services, and our Chauffeur service is second to none. Our professional designated drivers will get you to your destination safely and conveniently, so you can relax and enjoy your evening without worrying about driving. Whether you’ve had a few too many drinks or just don’t feel like driving, we’re here to help. Book a ride with us today and experience the peace of mind that comes with knowing you’re in good hands.`,
-    paragrph2: `Whether you’re a busy professional who doesn’t have time to drive yourself around, or you simply want to relax and enjoy the ride while someone else takes care of the driving, Awesome Drive is here to help. We provide professional chauffeurs to meet all your requirements, so you can focus on what’s important to you.`
+    paragrph1: `We are abcd Drive, the most trusted private driver service in the UAE. We specialize in safe driver services, and our Chauffeur service is second to none. Our professional designated drivers will get you to your destination safely and conveniently, so you can relax and enjoy your evening without worrying about driving. Whether you’ve had a few too many drinks or just don’t feel like driving, we’re here to help. Book a ride with us today and experience the peace of mind that comes with knowing you’re in good hands.`,
+    paragrph2: `Whether you’re a busy professional who doesn’t have time to drive yourself around, or you simply want to relax and enjoy the ride while someone else takes care of the driving, abcd Drive is here to help. We provide professional chauffeurs to meet all your requirements, so you can focus on what’s important to you.`
 });
 export const chauffeurServices = ({
     /**  Messages */
     heading1: "Chauffeur services in Dubai, UAE",
-    paragrph1: `Dubai is acclaimed with luxury and class which is why chauffeur services are ideal for travelers & residents in Dubai. Avoid the crowds on Dubai in the roads with your private chauffeur from Awesome Driver, The Best Safe Driver Dubai. Private chauffeur service in UAE is the ideal way to get around on your tour of Dubai. Call +971 52 894 8931 to make booking the best rates easy!`,
-    heading2: "The benefits of hiring a Drivers from Awesome Drive",
+    paragrph1: `Dubai is acclaimed with luxury and class which is why chauffeur services are ideal for travelers & residents in Dubai. Avoid the crowds on Dubai in the roads with your private chauffeur from abcd Driver, The Best Safe Driver Dubai. Private chauffeur service in UAE is the ideal way to get around on your tour of Dubai. Call +971 52 894 8931 to make booking the best rates easy!`,
+    heading2: "The benefits of hiring a Drivers from abcd Drive",
     paragrph2: `Dubai is a fast paced city with cars zooming in at high speed and at times after you are a couple of drinks down you feel like not driving a car.
 So, what will you do?
 
@@ -91,7 +91,7 @@ export const servicesData = [
     {
         servesImage: "/images/servesImage2.jpg",
         title: "Outsourced/Corporate Drivers",
-        description: "Awesome Drive provides professional chauffeurs to meet all your requirements. If you require a driver for a day, week or monthly Awesome Drive can provide you with professional and experienced chauffeurs."
+        description: "abcd Drive provides professional chauffeurs to meet all your requirements. If you require a driver for a day, week or monthly abcd Drive can provide you with professional and experienced chauffeurs."
     },
     {
         servesImage: "/images/servesImage3.jpg",
@@ -151,7 +151,7 @@ export const faqsData1 = [
 
         key: '3',
         title: 'How soon a driver reach my place?',
-        content: 'Awesome Drive always make sure that our drivers the pickup point in less than 30 minutes of your booking.'
+        content: 'abcd Drive always make sure that our drivers the pickup point in less than 30 minutes of your booking.'
     },
 
     {
@@ -197,7 +197,7 @@ export const faqsData2 =[
     },
     {
         key: '11',
-        title: 'How Do I Pay to Awesome Drive?',
+        title: 'How Do I Pay to abcd Drive?',
         content: 'You can pay by cash.'
     },
     {
@@ -211,9 +211,9 @@ export const faqsData2 =[
 
 
 
-export const awesomeDriveBenefits = [
+export const driveBenefits = [
     {
-      description: 'If you’re a hotel, enhance your guests’ experiences by booking a driver for them through Awesome Drive.'
+      description: 'If you’re a hotel, enhance your guests’ experiences by booking a driver for them through abcd Drive.'
     },
     {
       description: 'Save time and alleviate the stress of finding parking when going out for dinner or a business meeting.'
@@ -228,14 +228,14 @@ export const awesomeDriveBenefits = [
       description: 'Make business meetings feel more professional and less exhausting by traveling with a chauffeur.'
     },
     {
-      description: 'Experience the comfort and luxury of a world-class driver service from Awesome Drive.'
+      description: 'Experience the comfort and luxury of a world-class driver service from abcd Drive.'
     }
     // Add more benefits or features as needed
   ];
-  export const awesomeDriveBenefitsP = ({
+  export const driveBenefitsP = ({
     heading:'Why Should You Hire a Personal Driver in Dubai?',
     paragrph:'Why Should You Hire a Personal Driver in Dubai?',
-    paragrph2:`Give yourself a fantastic safe driver service experience with the professional chauffeur services of Awesome Drive, in Dubai. Here you will find highly experienced safe drivers waiting for you to ride and explore the United Arab Emirates with your family, business meeting or friends in the comfort of your own car. Awesome Drive is a Dubai based Safe Driver company that offers private drivers in Dubai to tourists and natives.
+    paragrph2:`Give yourself a fantastic safe driver service experience with the professional chauffeur services of abcd Drive, in Dubai. Here you will find highly experienced safe drivers waiting for you to ride and explore the United Arab Emirates with your family, business meeting or friends in the comfort of your own car. abcd Drive is a Dubai based Safe Driver company that offers private drivers in Dubai to tourists and natives.
 
     Whether you need a corporate car driver to receive your business clients from the airport or need chauffeur service at the price of a cab to meet friends, we have got you covered with our safe driver services.`
   })
